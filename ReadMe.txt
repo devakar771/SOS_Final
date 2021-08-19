@@ -6,4 +6,4 @@ Implemeted the Encoder-Decoder mechanism of Image Captioning using Attention Mec
 # Model trained weights can be found here.
   https://drive.google.com/file/d/11mk5t6pCyaSjAExNr7j9W9_83hLUfK6Y/view?usp=sharing
 
-The model obtained an average BLEU score of 0.51 on the validation data of 7000 captions.
+The model obtained an average BLEU score of 0.57 on the validation data of 7000 captions.
